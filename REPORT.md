@@ -27,7 +27,7 @@ Describe the stack (front-end only? full stack?), database, efficiency, etc. Des
 
 ### Ratings and Reviews
 #### Documentation
-Although, with a bit more time, it may be easier to judge the quality of the documentation, for someone just learning OAuth, I did find it somewhat obtuse.  The documentation may be complete enough, but I think it could have been made easier to locate each of the pieces we needed.  It could also have used a better diagram with the various systems and roles and the communications between them.  If, however, you are a developer more familiar with the OAuth protocol already, this may not be a problem.
+Although, with a bit more time, it may be easier to judge the quality of the documentation, for someone just learning OAuth, I did find it somewhat obtuse.  The documentation may be complete enough, but it could have been made easier to locate each of the pieces we needed.  It could also have used a better diagram with the various systems and roles and the communications between them.  If, however, you are a developer more familiar with the OAuth protocol already, this may not be a problem.
 
 #### Systems Requirements
 Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework?  Can it play at AWS/Heroku?  Does it require a certain database?
@@ -42,8 +42,7 @@ How long would/should it take a team of mid-junior developers to become producti
 * After that it is a little difficult to predict, it depends on the team and how many senior devs or others that there are for guidance
 
 #### Community Support and Adoption levels
-How popular is this framework? What big companies are running on it? How is it "seen" in the general JS community?  Is there an active community of developers supporting and growing it?
-Oauth is a very popular framework; some big companies that are running it include Amazon, Facebook, Google, Instagram, etc. Oauth was first implemented in 2006 at Twitter, by August 2010, all third party Twitter applications have been required to use OAuth. THe OAuth 2.0 was introduced in October 2012. 
+Oauth is a very popular framework; some big companies that are running it include Amazon, Facebook, Google, Instagram, etc. Oauth was first implemented in 2006 at Twitter, by August 2010, all third party Twitter applications have been required to use OAuth. The OAuth 2.0 was introduced in October 2012. Oauth is supported in many different programming languages such as Java, .NET, Python, PHP, Swift, etc. 
 
 ### Links and Resources
 * [framework](https://developer.yahoo.com/oauth/)
